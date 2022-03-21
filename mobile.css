@@ -1,0 +1,289 @@
+@media all and (max-width: 430px){
+    .logo-img {
+        width: 24%;
+        margin-left: 1%;
+    }
+    .block-video {
+        height: 53vh;
+    }
+    .block-video-overlay {
+        height: 50%;
+    }
+    .block-video-overlay h1 {
+        font-size: 31px;
+    }
+    .bonus {
+        margin: 6%;
+        width: 76%;
+    }
+    .drug {
+        width: 49%;
+    }
+    .drug, .bonus {
+        font-size: 8px;
+    }
+    .title-block {
+        font-size: 27px;
+    }
+    .offer-blocks{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        height: 112vh;
+    }
+    .offer {
+        width: 100%;
+    }
+    .offer h1 {
+        right: 20%;
+        top: 74%;
+        font-size: 23px;
+    }
+    .offer-text-blue, .offer-text-owner, .offer-img, .big-logo {
+        display: none;
+    }
+    .contact-stage-form {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .contact-form {
+        width: 100%;
+        margin: 0;
+    }
+    .stage-form {
+        width: 100%;
+    }
+    .apply-btn {
+        width: 28%;
+    }
+    .aboutUs {
+        height: 70vh;
+        justify-content: center;
+        align-items: center;
+    }
+    .img-aboutUs {
+        width: 75%;
+        height: 27vh;
+        margin: 0;
+    }
+    .abouts-content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .aboutUs-text{
+        width: 90%;
+    margin-top: 6%;
+    font-size: 17px;
+    }
+    .rewiews{
+        flex-direction: column;
+        width: 95%;
+        margin: 14% 0 2% 0;
+    }
+    .title-friends {
+        font-size: xx-large;
+        margin: 8%;
+    }
+   
+    .element {
+        width: 1%;
+        height: 5vh;
+        margin-right: 20%;
+    }
+    .contacts {
+        height: 54vh;
+    }
+    .contacts h1 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: white;
+        font-size: xxx-large;
+        padding-top: 13%;
+    }
+    .contacts ul li {
+        font-size: 11px;
+    }
+    .contacts ul li a {
+        color: white;
+        margin: 1% 0;
+        font-size: 16px;
+    }
+    .vector {
+        width: 6%;
+        height: 3vh;
+        margin-right: 5%;
+    }
+    .contact-items {
+        flex-direction: column;
+        width: 94%;
+    }
+    .contacts ul {
+        width: 100%;
+    }
+    .icons {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        width: 79%;
+        margin: auto;
+    }
+    .icon {
+        width:15%;
+        height: 5vh;
+        text-align: center;
+        margin: 7% auto;
+    }
+    .footer-contact ul {
+        font-size: 12px;
+        line-height: 25px;
+    }
+    .icon-f {
+        display: flex;
+        justify-content: space-around;
+        width: 21%;
+        margin: 3% auto;
+    }
+
+    .pages-ofer{
+        display: flex;
+        flex-direction: column;
+        height: 80vh;
+        color: white;
+    }
+    .col1{
+        width: 85%;
+    }
+    .pages-centre-line {
+        height: 1vh;
+        width: 80%;
+        margin: 5% auto;
+        background-color: white;
+    }
+    .col2 {
+        font-size: 14px;
+        line-height: 26px;
+        width: 85%;
+        margin: auto;
+    }
+    .blue-div h1 {
+        margin: 0;
+        font-size: 15px;
+    }
+    .blue-div span {
+        font-size: 49px;
+    }
+    .pages-block1 {
+        width: 80%;
+        margin-top: 20%;
+    }
+    .pages-block1 p {
+        font-size: 17px;
+        margin: 9% 0;
+    }
+    .blue-div h1{
+        display: flex;
+        flex-direction: column;
+        font-size: 25px;
+        line-height: 50px;
+    }
+    .logo-little {
+        width: 28%;
+    }
+    .img-logo-little {
+        height: 8vh;
+        width: 80%;
+    }
+    .logo-little p {
+        font-size: 13px;
+    }
+    .line-aboutUs .line {
+        width: 40%;
+        height: 4px;
+    }
+    .requirements h1{
+        font-size: 20px;
+    }
+    footer {
+        margin: 0;
+    }
+  footer p{
+    font-size: 12px;
+    margin: 3% 0;
+  }
+  .line-aboutUs {
+    margin-top: 5%;
+}
+.friends-company {
+    margin: 0 0 10% 0;
+}
+}
+@media all and (max-width: 390px){
+    .block-video-overlay h1 {
+        font-size: 27px;
+    }
+    .blokc2-gifts {
+        height: 52vh;
+    }
+    .title-block {
+        font-size: 24px;
+    }
+    .apply-btn {
+        width: 46%;
+    }
+    .aboutUs {
+        height: 80vh;
+        margin-top: 10%;
+    }
+    .aboutUs-text {
+        width: 94%;
+        margin-top: 6%;
+        font-size: 16px;
+    }
+    .div-video{
+        margin-top: 5%;
+    }
+    .rewiew-img {
+        width: 100%;
+        height: 11vh;
+    }
+    .rewiews {
+        flex-direction: column;
+        width: 100%;
+        
+    }
+    .title-friends {
+        font-size: 28px;
+        margin: 10% 0;
+    }
+    .contacts {
+        height: 51vh;
+        margin-top: 12%;
+    }
+   
+    .line-aboutUs .line {
+        width: 45%;
+        height: 4px;
+    }
+    .vector {
+        width: 5%;
+        height: 3vh;
+        margin-right: 3%;
+    }
+    .contacts ul li {
+        font-size: 10px;
+    }
+    .img-logo-little {
+        height: 7vh;
+        width: 81%;
+    }
+    .col1 ul li {
+        font-size: 13px;
+    }
+    .pages-ofer {
+        height: 100vh;
+    }
+}
